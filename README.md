@@ -39,6 +39,8 @@ The repository is organized into sequential modules, each focusing on specific t
 
 ## 🛠️ Getting Started
 
+*Example*
+
 To explore the repository:
 
 1. **Clone the Repository**:
