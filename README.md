@@ -22,7 +22,9 @@ The repository is organized into sequential modules, each focusing on specific t
 6. **6-Pandas**: Data manipulation and analysis with Pandas — Series, DataFrames, and data preprocessing.
 7. **8-MachineLearning/1 - LinearRegression**: Introduction to machine learning with a focus on linear regression models.
 
-*Note: Modules are numbered to reflect the learning progression.*
+### Note: 
+1. Modules are numbered to reflect the learning progression.
+2. Will add the future learning things.
 
 ---
 
@@ -104,12 +106,13 @@ Please ensure your contributions align with the project's objectives and maintai
 For questions, suggestions, or collaboration opportunities, feel free to reach out:
 
 - **GitHub**: [PathumLD](https://github.com/PathumLD)
+- **LinkedIn**: [Pathum Dissanayake](https://www.linkedin.com/in/pathumld/)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project, provided you include the original license.
+You are free to use, modify, and distribute this project. Don't forget to mention me😉
 
 ---
 
